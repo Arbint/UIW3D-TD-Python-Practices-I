@@ -21,29 +21,14 @@ Input: celsius = 122.11
 Output: [395.26000,251.79800]
 Explanation: Temperature at 122.11 Celsius converted in Kelvin is 395.26 and converted in Fahrenheit is 251.798.
 
-## <span style="color:#4B904C">Jewels and Stones</span>
-
-You're given strings jewels representing the types of stones that are jewels, and stones representing the stones you have. Each character in stones is a type of stone you have. You want to know how many of the stones you have are also jewels.
-
-Letters are case-sensitive, so "a" is considered a different type of stone from "A".
- 
-### Example 1:
-Input: jewels = "aA", stones = "aAAbbbb"
-Output: 3
-
-### Example 2:
-Input: jewels = "z", stones = "ZZ"
-Output: 0
-
-
 ## <span style="color:#4B904C">Remove Vowels</span>
 
 Given a string s, remove the vowels 'a', 'e', 'i', 'o', and 'u' from it, and return the new string.
  
-Example 1:
+### Example 1:
 Input: s = “artstationisacommunityforartists" Output: “rtsttnscmmntyfrrtsts" 
 
-Example 2:
+### Example 2:
 Input: s = "aeiou" Output: "" 
  
 Constraints:
